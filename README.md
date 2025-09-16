@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Johanne 
 - 👀 I’m interested in frontend, backend and fullstack
-- 🌱 I’m currently learning introductory cybersecurity
+- 🌱 I’m currently learning data analysis
 - 💞️ I’m looking to collaborate on applications 
 - 📫 How to reach me johanneenama@gmail.com
 
